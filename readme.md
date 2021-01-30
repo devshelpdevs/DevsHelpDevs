@@ -1,4 +1,4 @@
-# DevsForDevs, a platform for developers helping developers
+# DevsHelpDevs, a platform for developers helping developers
 
 ## Motivation
 Most developers in industrial countries take it for granted to have state of the art development computers, always fast internet and reliable electricity.
