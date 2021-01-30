@@ -43,6 +43,7 @@ And IMHO this system should be built by people from the countries it's aimed to 
 ## How will we proceed?
 Unfortunately, I have no experience in web development at all, so I can't add much help in coding. However, I can act as project manager ensuring that we will reach our goal.
 To get everyone you want to participate started I have active the discussions on this repository and already started some threads with questions that we need to answer before we can start doing anything. 
+We will start with a minimal feature set to get it launched fast and then add more features as we go.
 
 I hope to meet you there!
 
