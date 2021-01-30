@@ -1,4 +1,4 @@
-#DevsForDevs, a platform for developers helping developers
+# DevsForDevs, a platform for developers helping developers
 
 ## Motivation
 Most developers in industrial countries take it for granted to have state of the art development computers, always fast internet and reliable electricity.
@@ -45,6 +45,7 @@ Unfortunately, I have no experience in web development at all, so I can't add mu
 To get everyone you want to participate started I have active the discussions on this repository and already started some threads with questions that we need to answer before we can start doing anything. 
 
 I hope to meet you there!
+
 Thomas
 
 You can reach me on Twitter @ThomasBurkhartB
