@@ -1,4 +1,4 @@
-#DevsHelpDevs User Specification V0.5
+# DevsHelpDevs User Specification V0.5
 
 This document describes the planed platform from a users point of view.
 
@@ -84,7 +84,7 @@ When the user is logged in the button changes to an account button to display a 
 * Contact: Page with contact information. Possibly with a global chat window that can be monitored by all staff members. 
 
 
-## Application Page of the applicant
+## Details Page of the Application
 
 ### Images
 
