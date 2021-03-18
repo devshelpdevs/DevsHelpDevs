@@ -1,5 +1,7 @@
 # DevsHelpDevs, a platform for developers helping developers
 
+>If you want to join our Slack to contribute or just to learn, send an email to mail@devshelpdevs.org
+
 ## Motivation
 Most developers in industrial countries take it for granted to have state of the art development computers, always fast internet and reliable electricity.
 I too, never spend any thought in this until I got a lot of Twitter followers from Africa and other developing countries.
